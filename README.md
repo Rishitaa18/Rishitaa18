@@ -1,4 +1,5 @@
 Hi, I'm Rishita Prinja 👋
+
 🎓 M.Sc. Statistics | Panjab University, Chandigarh
 📊 Data Analyst | Statistician | Aspiring Data Scientist
 📍 Chandigarh, India
