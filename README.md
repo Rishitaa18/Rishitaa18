@@ -1,6 +1,7 @@
 # Hi, I'm Rishita Prinja 👋
 
-**Data Analyst | Statistician | Aspiring Data Scientist** 🎓 M.Sc. Statistics | Panjab University, Chandigarh  
+**Data Analyst | Statistician | Aspiring Data Scientist** 
+🎓 M.Sc. Statistics | Panjab University, Chandigarh  
 📍 Chandigarh, India  
 📧 [RishitaPrinja2002@gmail.com](mailto:RishitaPrinja2002@gmail.com)
 
@@ -13,7 +14,7 @@ I'm a statistician with hands-on experience in public health research, machine l
 - **Languages:** Python, R, SQL
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
 - **Tools:** Power BI, SPSS, REDCap, Excel, MySQL
-Skills: Machine Learning, Hypothesis Testing, EDA, Regression, Classification, Data Visualization
+-**Skills:** Machine Learning, Hypothesis Testing, EDA, Regression, Classification, Data Visualization
 
 Featured projects
 🏦 Loan Approval Analysis
